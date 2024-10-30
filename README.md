@@ -1,5 +1,8 @@
+![image](https://github.com/user-attachments/assets/90f634f5-04e6-49c5-87b3-23bd756c7f58)
+
+
 # Anova
-## gráfica anova en r desde, tukey hasta combinadas.
+## Gráfica anova en r desde, tukey hasta combinadas.
 
 # Prueba de post-hoc de tukey 
 
@@ -160,6 +163,13 @@ ggstatsplot::ggbetweenstats(
 **title, xlab, ylab es básico, se usan para asignar títulos y etiquetas a la gráfica, lo que se puede intuir al leer el último código xlab= "muestras", ahí se uso como una etiqueta y como titulo para muestras (que podría ser cualquier nombre, dependiendo de loq que se este analizando**
 
 ![prueba anova y comparaciones post-hoc entre muestras](https://github.com/user-attachments/assets/cc2d52ef-3cca-4fa6-9845-1c001748ce3b)
+
+
+#Referencia
+https://statsandr.com/blog/anova-in-r/
+
+
+![image](https://github.com/user-attachments/assets/8ffe104c-b0b5-4b1c-9045-0612265e4eb5)
 
 
 
